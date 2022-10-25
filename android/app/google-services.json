@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376945763487",
+    "project_id": "vsla-d441a",
+    "storage_bucket": "vsla-d441a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376945763487:android:73a2c997f3c4c79ed02eaa",
+        "android_client_info": {
+          "package_name": "com.example.vsla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376945763487-8khapbh5p4l21kp1sfed51696f0qjj2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZL1zncu9Hy3m5VHA5IJLUCztZYDh3lOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376945763487-8khapbh5p4l21kp1sfed51696f0qjj2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
